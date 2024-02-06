@@ -1,0 +1,8 @@
+venv
+data/train_essays_7_prompts.csv
+data/train_essays_7_prompts_v2.csv
+data/train_essays_RDizzl3_seven_v1.csv
+data/train_essays_RDizzl3_seven_v2.csv
+notebooks/.ipynb_checkpoints
+notebooks/wandb
+.idea
